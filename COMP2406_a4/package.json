@@ -1,0 +1,16 @@
+{
+  "name": "2406a_assignment4",
+  "version": "1.0.0",
+  "description": "2406A-winter 2018 Assignment #4\r Implemented by: Haiyue Sun\r Student ID: 100864611",
+  "main": "SchoolIdolProject.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node SchoolIdolProject.js"
+  },
+  "author": "Haiyue Sun",
+  "license": "ISC"
+}
